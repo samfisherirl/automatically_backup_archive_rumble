@@ -1,0 +1,8 @@
+folder_path=C:\Videos
+# above folder is monitored, when ran, first video is selected.
+email=myemail@gmail.com
+password=123456Password
+video_title=jstlk
+delete_when_done=False 
+open_log_when_done=True
+# or 0
