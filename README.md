@@ -1,5 +1,5 @@
-# automatically_backup_archive_rumble
-automatically_backup_archive_rumble
+# No-Touch archive videos to Rumble 
+
 - rename template to `.env`
 - Fill out
 
