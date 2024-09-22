@@ -1,2 +1,2 @@
-PyVimeo
 selenium
+webdriver-manager
